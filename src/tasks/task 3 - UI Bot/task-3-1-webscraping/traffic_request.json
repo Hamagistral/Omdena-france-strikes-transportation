@@ -1,0 +1,195 @@
+{
+  "result": {
+    "metros": [
+      {
+        "line": "1",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "2",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "3",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "3B",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "4",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "5",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "6",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "7",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "7B",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "8",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "9",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "10",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "11",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "12",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "13",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "14",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      }
+    ],
+    "rers": [
+      {
+        "line": "A",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "B",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "C",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "D",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "E",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      }
+    ],
+    "tramways": [
+      {
+        "line": "1",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "2",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "3A",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "3B",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "4",
+        "slug": "normal_trav",
+        "title": "Travaux",
+        "message": "\u00c0 partir du mardi 25 avril 2023, en raison de travaux, le trafic est interrompu de 04h00 \u00e0 04h55 entre les arr\u00eats GARE D'AULNAY SOUS BOIS et GARE DE BONDY sur la ligne T4 du Tramway jusqu'au samedi 8 juillet 2023. Des bus de remplacement sont mis \u00e0 disposition."
+      },
+      {
+        "line": "5",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "6",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "7",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      },
+      {
+        "line": "8",
+        "slug": "normal",
+        "title": "Trafic normal",
+        "message": "Trafic normal sur l'ensemble de la ligne."
+      }
+    ]
+  },
+  "_metadata": {
+    "call": "GET /traffic",
+    "date": "2023-06-05T03:22:32+02:00",
+    "version": 4
+  }
+}

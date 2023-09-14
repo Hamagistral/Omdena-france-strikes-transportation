@@ -1,0 +1,4 @@
+folium==0.14.0
+pandas==1.5.3
+requests==2.31.0
+streamlit_folium==0.12.0

@@ -1,0 +1,44 @@
+name,status
+RER A,trafic normal travaux prévus
+RER B,trafic perturbé travaux en cours
+RER C,trafic perturbé travaux en cours
+RER D,trafic perturbé travaux en cours
+RER E,trafic perturbé travaux en cours
+METRO 1,trafic normal
+METRO 2,trafic normal
+METRO 3,trafic normal
+METRO 3B,trafic normal
+METRO 4,trafic normal travaux prévus
+METRO 5,trafic normal
+METRO 6,trafic normal
+METRO 7,trafic normal travaux prévus
+METRO 7B,trafic normal
+METRO 8,trafic normal
+METRO 9,trafic normal
+METRO 10,trafic normal
+METRO 11,trafic normal travaux prévus
+METRO 12,trafic normal
+METRO 13,trafic normal
+METRO 14,trafic normal travaux prévus
+METRO ORV,trafic normal
+TRAM T1,trafic perturbé travaux en cours
+TRAM T2,trafic normal
+TRAM T3A,trafic normal
+TRAM T3B,trafic normal travaux prévus
+TRAM T4,trafic normal travaux prévus
+TRAM T5,trafic normal
+TRAM T6,trafic normal
+TRAM T7,trafic normal
+TRAM T8,trafic normal
+TRAM T9,trafic normal
+TRAM T10,trafic normal
+TRAM T11,trafic normal
+TRAM T13,trafic normal
+TRANSILIEN H,trafic normal
+TRANSILIEN J,trafic perturbé travaux en cours
+TRANSILIEN K,trafic normal travaux prévus
+TRANSILIEN L,trafic perturbé travaux en cours
+TRANSILIEN N,trafic perturbé travaux en cours
+TRANSILIEN P,trafic perturbé travaux en cours
+TRANSILIEN R,trafic perturbé travaux en cours
+TRANSILIEN U,trafic perturbé travaux en cours
