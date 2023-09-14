@@ -12,6 +12,8 @@
   <p>Building a Conversational AI Chatbot for Alternative Transportation During Strikes in France</p>
     <a href="https://www.youtube.com/watch?v=MHPyRCB5QLk" target="_blank">Demo</a>
     🚕
+    <a href="https://omdena.com/chapter-challenges/building-a-conversational-ai-chatbot-for-alternative-transportation-during-strikes/" target="_blank">Project Source</a>
+    🛸
     <a href="https://github.com/Hamagistral/Omdena-france-strikes-transportation/issues" target="_blank">Request Feature</a>
 </div>
 <br>
@@ -58,9 +60,18 @@ The goal of this project is to develop a chatbot application that helps the citi
 
 ![image](https://github.com/Hamagistral/Omdena-france-strikes-transportation/assets/66017329/404d2004-ba0d-46d9-b9d1-7c3e384489a2)
 
+- Web scraping: [Notebook](https://github.com/Hamagistral/Omdena-france-strikes-transportation/blob/master/tasks/task%201%20-%20Data%20Collection/hamagistral/scraping_traffic_status.ipynb)
+- Nearest Station Algorithm: [Notebook](https://github.com/Hamagistral/Omdena-france-strikes-transportation/blob/master/tasks/task%201%20-%20Data%20Collection/hamagistral/train_ratp_stations.ipynb)
+- [Version 1 Back End](https://github.com/Hamagistral/Omdena-france-strikes-transportation/blob/master/tasks/task%203%20-%20UI%20Bot/task-3-0-ui-bot/hamagistral/chatbot_man.py)
+- [Version 1 Front End](https://github.com/Hamagistral/Omdena-france-strikes-transportation/blob/master/tasks/task%203%20-%20UI%20Bot/task-3-0-ui-bot/hamagistral/01_%F0%9F%92%AC_Chatbot.py)
+
 ### 2️⃣ Version 2
 
 ![image](https://github.com/Hamagistral/Omdena-france-strikes-transportation/assets/66017329/702027df-ae62-4ae0-ace3-60be7c9f51b6)
+
+- Extracting Informations from Navitia API : [Notebook](https://github.com/Hamagistral/Omdena-france-strikes-transportation/blob/master/tasks/task%201%20-%20Data%20Collection/hamagistral/navitia_route.ipynb)
+- [Version 2 Back End](https://github.com/Hamagistral/Omdena-france-strikes-transportation/blob/master/tasks/task%203%20-%20UI%20Bot/task-3-0-ui-bot/hamagistral/chatbot_navitia.py)
+- [Version 2 Front End](https://github.com/Hamagistral/Omdena-france-strikes-transportation/blob/master/tasks/task%203%20-%20UI%20Bot/task-3-0-ui-bot/hamagistral/pages/02_%F0%9F%92%AC_Chatbot_V2.py)
 
 For more information, please refer to the [project report](https://github.com/Hamagistral/Omdena-france-strikes-transportation/blob/master/report/Omdena%20Ile-De-France%20Report%20.pdf).
 
