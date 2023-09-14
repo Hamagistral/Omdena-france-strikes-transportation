@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://github.com/Hamagistral/Omdena-france-strikes-transportation/assets/66017329/0dafd773-bc58-4942-a2f2-ed1154e1f975" alt="Banner" width="720">
+    <img src="https://github.com/Hamagistral/Omdena-france-strikes-transportation/assets/66017329/0dafd773-bc58-4942-a2f2-ed1154e1f975" alt="Banner" width="890">
   </a>
 
   <div id="user-content-toc">
