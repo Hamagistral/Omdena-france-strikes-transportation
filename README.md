@@ -22,10 +22,11 @@
 
 1. [ Project Overview ](#introduction)
 2. [ Key Features ](#features)
-3. [ Project Architecture ](#arch)
-4. [ Usage ](#usage)
-5. [ Team ](#team)
-6. [ Contact ](#contact)
+3. [ User Interface ](#ui)
+4. [ Project Architecture ](#arch)
+5. [ Usage ](#usage)
+6. [ Team ](#team)
+7. [ Contact ](#contact)
 
 <a name="introduction"></a>
 ## 🔬 Project Overview :
@@ -52,6 +53,21 @@ The goal of this project is to develop a chatbot application that helps the citi
 - **Interactive Chatbot UI:** Offer an interactive chatbot interface alongside a map for an engaging and user-friendly experience.
 
 - **Strike Impact Reduction:** Help users navigate transportation strikes in Île-de-France more effectively, reducing the impact on their daily commutes.
+
+<a name="ui"></a>
+## 🖼️ User Interface
+
+- **Chatbot Version 1 (Request)**
+![image](https://github.com/Hamagistral/Omdena-france-strikes-transportation/assets/66017329/bd95214f-85fd-4441-ad1a-75d09b4466cd)
+
+- **Chatbot Version 1 (Response)**
+![image](https://github.com/Hamagistral/Omdena-france-strikes-transportation/assets/66017329/c6d2bb81-4dbf-4bee-971b-6f4cd871ce43)
+
+- **Chatbot Version 2 (Request)**
+![image](https://github.com/Hamagistral/Omdena-france-strikes-transportation/assets/66017329/ef34acf7-07ff-4a3b-911b-cdeba02ee035)
+
+- **Chatbot Version 2 (Response)**
+![image](https://github.com/Hamagistral/Omdena-france-strikes-transportation/assets/66017329/4404c70c-f104-40ba-8637-cb55b31f8940)
 
 <a name="arch"></a>
 ## 📝 Project Architecture
